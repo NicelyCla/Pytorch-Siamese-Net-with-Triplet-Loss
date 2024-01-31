@@ -129,4 +129,4 @@ Although the network was trained on MNIST (99% accuracy), the network can recogn
 
 ![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/extra2.jpeg)
 
-Repo Learn more about the task here:[ https://github.com/NicelyCla/Similarity-image-Canvas/ ](https://github.com/NicelyCla/Similarity-image-Canvas)
+Repo:[ https://github.com/NicelyCla/Similarity-image-Canvas/ ](https://github.com/NicelyCla/Similarity-image-Canvas)
