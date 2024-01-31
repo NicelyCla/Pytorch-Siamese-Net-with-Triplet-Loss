@@ -1,4 +1,5 @@
-﻿**A.A. 2022/2023**  
+# Pytorch-Siamese-Net-with-Triplet-Loss﻿
+**A.A. 2022/2023**  
 
 **Deep Learning and Generative Models**  **Project assignment #11** 
 
