@@ -45,7 +45,7 @@ Each input sample is passed through its respective subnetwork, and the output re
 
 ![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/siamese_classic.jpeg)
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.002.png)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/siamese_formula.png)
 
 **Siamese Network with Triplet Loss**
 
@@ -53,21 +53,21 @@ The second type of Siamese neural networks is based on the calculation of the Eu
 
 Since research has shown that this Triplet Loss model is generally more robust than the Contrastive Loss model, the project was therefore developed using this approach. 
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.003.jpeg)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/siamese_tripl.jpeg)
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.004.png)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/siamese_triplet_formula.png)
 
 **The goal of Siamese Network** 
 
 The goal of Siamese networks is to search for similar features among images of the same class. Therefore, after training, the distances between features of "similar" images will be decreased, and the distance between "different" images increased. 
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.005.png)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/triplet_ob.png)
 
 **Euclidean Distance vs Cosine Distance**
 
 Although both distances were implemented in this project, the best results on CIFAR100 were produced using the cosine distance. 
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.006.png)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/distance.png)
 
 **Experimental results:** 
 
@@ -86,7 +86,7 @@ Since the network learns the similarity and diversity of the domains, it can saf
 
 **Training on the entire CIFAR100 dataset** 
 
-Below we will see the accuracy of ![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.007.jpeg)CIFAR100 trained on all classes using this approach is around 82-83%. 
+Below we will see the accuracy of ![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/training_loss.jpeg)CIFAR100 trained on all classes using this approach is around 82-83%. 
 
 Several experiments will be reported training the network on a subset of CIFAR100 (90-10, 80-20, 70-30, 60-40, 50- 50, 40-60, 30-70, 20-80, 10-90) 
 
@@ -115,7 +115,7 @@ whether the images belong to the same class or not.
 
 The results confirm the hypothesis that the Siamese network can generalize as the classes learned increase, an interesting case is the 90-10 training, the network was more accurate on unseen domains rather than those learned during the training. 
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.008.jpeg)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/histo.jpeg)
 
 As can be seen from the histogram, as the classes learned during the training phase increase, the model is able to classify even previously unseen domains better and better. 
 
@@ -123,8 +123,8 @@ As can be seen from the histogram, as the classes learned during the training ph
 
 The project's Siamese network was also trained on MNIST, the model subsequently took part in an interactive paint-like application, capable of recognizing whether hand-drawn images belong to the same domain or not.
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.009.jpeg)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/extra1.jpeg)
 
 Although the network was trained on MNIST (99% accuracy), the network can recognize similarities even in new hand-drawn domains. 
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.010.jpeg)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/extra2.jpeg)
