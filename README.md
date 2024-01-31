@@ -43,7 +43,7 @@ The architecture of a Siamese network typically consists of two identical subnet
 
 Each input sample is passed through its respective subnetwork, and the output representations are then compared to measure the similarity between the two inputs (1:Match, 0:Non-Match) to determine the Contrastive Loss..
 
-![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.001.jpeg)
+![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/siamese_classic.jpeg)
 
 ![](Aspose.Words.2fa577eb-c93c-45de-a71d-1e5486533438.002.png)
 
