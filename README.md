@@ -128,3 +128,5 @@ The project's Siamese network was also trained on MNIST, the model subsequently 
 Although the network was trained on MNIST (99% accuracy), the network can recognize similarities even in new hand-drawn domains. 
 
 ![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/extra2.jpeg)
+
+Repo Learn more about the task here:[ https://github.com/NicelyCla/Similarity-image-Canvas/ ](https://github.com/NicelyCla/Similarity-image-Canvas)
