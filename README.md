@@ -94,11 +94,9 @@ Several experiments will be reported training the network on a subset of CIFAR10
 
 **Complete results:** 
 
-- ***Test Accuracy (triplet):*** Given an anchor, positive and negative, this test is based on how many times the distance between anchor and positive is less than the distance 
-
-between anchor and negative. ￿  ***Binary Test Accuracy:*** Given a pair of images, this test measures how many times it was correctly predicted whether the images belong to the same class or not. ￿  ***Mean Few Shot Accuracy:*** Given a pair of images from a subset excluded during the training phase, this test measures how many times it was correctly predicted 
-
-whether the images belong to the same class or not.
+- ***Test Accuracy (triplet):*** Given an anchor, positive and negative, this test is based on how many times the distance between anchor and positive is less than the distance between anchor and negative.
+- ***Binary Test Accuracy:*** Given a pair of images, this test measures how many times it was correctly predicted whether the images belong to the same class or not.
+- ***Mean Few Shot Accuracy:*** Given a pair of images from a subset excluded during the training phase, this test measures how many times it was correctly predicted whether the images belong to the same class or not.
 
 
 
