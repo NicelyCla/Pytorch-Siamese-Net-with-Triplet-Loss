@@ -1,0 +1,14 @@
+Test Accuracy: 88.34%
+Binary Test Accuracy: 80.95%
+Binary Test Accuracy Few Shot Class [90]: 91.82%
+Binary Test Accuracy Few Shot Class [91]: 86.31%
+Binary Test Accuracy Few Shot Class [92]: 84.21%
+Binary Test Accuracy Few Shot Class [93]: 81.94%
+Binary Test Accuracy Few Shot Class [94]: 82.53%
+Binary Test Accuracy Few Shot Class [95]: 81.21%
+Binary Test Accuracy Few Shot Class [96]: 82.12%
+Binary Test Accuracy Few Shot Class [97]: 81.86%
+Binary Test Accuracy Few Shot Class [98]: 80.08%
+Binary Test Accuracy Few Shot Class [99]: 78.55%
+- Mean Few Shot accuracy: 83.06231762065096
+

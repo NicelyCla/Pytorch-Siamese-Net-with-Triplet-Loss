@@ -1,0 +1,43 @@
+Test Accuracy: 88.01%
+Binary Test Accuracy: 81.63%
+Binary Test Accuracy Few Shot Class [60]: 75.70%
+Binary Test Accuracy Few Shot Class [61]: 81.15%
+Binary Test Accuracy Few Shot Class [62]: 80.83%
+Binary Test Accuracy Few Shot Class [63]: 76.85%
+Binary Test Accuracy Few Shot Class [64]: 78.78%
+Binary Test Accuracy Few Shot Class [65]: 74.65%
+Binary Test Accuracy Few Shot Class [66]: 74.29%
+Binary Test Accuracy Few Shot Class [67]: 71.99%
+Binary Test Accuracy Few Shot Class [68]: 71.56%
+Binary Test Accuracy Few Shot Class [69]: 70.45%
+Binary Test Accuracy Few Shot Class [70]: 71.30%
+Binary Test Accuracy Few Shot Class [71]: 72.50%
+Binary Test Accuracy Few Shot Class [72]: 72.17%
+Binary Test Accuracy Few Shot Class [73]: 72.23%
+Binary Test Accuracy Few Shot Class [74]: 71.80%
+Binary Test Accuracy Few Shot Class [75]: 71.17%
+Binary Test Accuracy Few Shot Class [76]: 70.98%
+Binary Test Accuracy Few Shot Class [77]: 71.13%
+Binary Test Accuracy Few Shot Class [78]: 70.54%
+Binary Test Accuracy Few Shot Class [79]: 69.58%
+Binary Test Accuracy Few Shot Class [80]: 70.32%
+Binary Test Accuracy Few Shot Class [81]: 71.27%
+Binary Test Accuracy Few Shot Class [82]: 71.47%
+Binary Test Accuracy Few Shot Class [83]: 72.11%
+Binary Test Accuracy Few Shot Class [84]: 71.98%
+Binary Test Accuracy Few Shot Class [85]: 72.26%
+Binary Test Accuracy Few Shot Class [86]: 72.23%
+Binary Test Accuracy Few Shot Class [87]: 72.04%
+Binary Test Accuracy Few Shot Class [88]: 71.94%
+Binary Test Accuracy Few Shot Class [89]: 72.01%
+Binary Test Accuracy Few Shot Class [90]: 72.31%
+Binary Test Accuracy Few Shot Class [91]: 72.09%
+Binary Test Accuracy Few Shot Class [92]: 72.15%
+Binary Test Accuracy Few Shot Class [93]: 71.65%
+Binary Test Accuracy Few Shot Class [94]: 71.93%
+Binary Test Accuracy Few Shot Class [95]: 72.10%
+Binary Test Accuracy Few Shot Class [96]: 72.54%
+Binary Test Accuracy Few Shot Class [97]: 72.48%
+Binary Test Accuracy Few Shot Class [98]: 72.61%
+Binary Test Accuracy Few Shot Class [99]: 72.21%
+- Mean Few Shot accuracy: 72.7345154498598
