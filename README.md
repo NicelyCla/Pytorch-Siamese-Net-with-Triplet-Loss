@@ -85,6 +85,7 @@ Since the network learns the similarity and diversity of the domains, it can saf
 |*Binary Test Batch Size* |1000 |
 
 **Training on the entire CIFAR100 dataset** 
+
 ![](https://raw.githubusercontent.com/NicelyCla/Pytorch-Siamese-Net-with-Triplet-Loss/main/Images/training_loss.jpeg)
 
 Below we will see the accuracy of CIFAR100 trained on all classes using this approach is around 82-83%. 
